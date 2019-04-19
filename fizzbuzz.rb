@@ -8,5 +8,5 @@ def fizzbuzz(any)
       elsif any % 5 == 0
           val="Buzz"
     else
-      puts "nil"
+      puts "not"
   end 
