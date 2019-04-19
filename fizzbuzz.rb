@@ -8,5 +8,5 @@ def fizzbuzz(any)
       elsif any % 5 == 0
           val="Buzz"
     else
-      puts "Not divisible by 3 or 5"
+      puts "nil"
   end 
